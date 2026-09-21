@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vercel/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+test-results/
+playwright-report/
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
